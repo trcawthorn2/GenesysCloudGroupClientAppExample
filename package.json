@@ -54,6 +54,6 @@
   "dependencies": {
     "ember-component-css": "^0.6.3",
     "fixtable-ember": "^4.0.0",
-    "purecloud-client-app-sdk": "^2.2.0"
+    "purecloud-client-app-sdk": "^2.3.0"
   }
 }
